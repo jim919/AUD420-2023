@@ -16,23 +16,23 @@ The file above will be the main source of code used to create our music track.
 
 ## Sound files: 
 ### cruel1 (1).wav 
-2 seconds
+2 seconds.
 A slight stroke of a violin. Calm and used into the overall symphony. 
 
 ### cruel1 (2).wav 
-1 seconds 
+1 second. 
 An electronic sound. Repetetive. Will be used softly in the background, so it doesn't overshadow the rest of the sounds.
 
 ### cruel1 (3).wav 
-2 seonds 
+2 seonds. 
 Similar to the first one. 
 
 ### cruel1 (4).wav 
-10 seconds 
+10 seconds.
 The longest preexisting sound so far. Has a long pause in the middle but still remains the primary focus of our music track. 
 
 ### cruel1 (5).wav 
-3 seconds 
+3 seconds. 
 Short yet comprehensive. 
 
 *Certain parameters of each sound we import into Supercollider will be modified to create our music track. 
