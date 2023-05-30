@@ -14,7 +14,7 @@ Using the Supercollider app we are tasked to create a music track. In order for 
 ## University.scd 
 The file above will be the main source of code used to create our music track. 
 
-## Sound files: 
+## Sound files/audio: 
 ### cruel1 (1).wav 
 2 seconds.
 A slight stroke of a violin. Calm and used into the overall symphony. 
