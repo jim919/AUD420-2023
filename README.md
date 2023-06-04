@@ -39,7 +39,7 @@ Short yet comprehensive.
 
 # CHARACTERISTICS 
 
-1. MAIN GOAL/PROCEDURE 
+## 1. MAIN GOAL/PROCEDURE 
 
 SuperCollider is admittedly a wonderful tool that can be effectively used in music production. I really liked the idea of delving into a complex program like that. But, as someone who doesn't have the slightest idea of writing code, in order to achieve this, I had to learn the basics. Books such as 'A gentle introduction to SuperCollider' by Bruno Ruviaro and 'Composition and Processing of Sound with SuperCollider' by Orestis Karamanlis were proven to be extremely helpful in my long journey.
 
