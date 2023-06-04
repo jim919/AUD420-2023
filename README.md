@@ -11,7 +11,7 @@ Using the Supercollider app we are tasked to create a music track. In order for 
 7. stop recording 
 
 # Files in this repository 
-## University.scd 
+### University.scd 
 The file above will be the main source of code used to create our music track. 
 
 ## Sound files/audio: 
