@@ -41,18 +41,18 @@ Short yet comprehensive.
 
 ### 1. MAIN GOAL/PROCEDURE 
 
-SuperCollider is admittedly a wonderful tool that can be effectively used in music production. I really liked the idea of delving into a complex program like that. But, as someone who doesn't have the slightest idea of writing code, in order to achieve this, I had to learn the basics. Books such as 'A gentle introduction to SuperCollider' by Bruno Ruviaro and 'Composition and Processing of Sound with SuperCollider' by Orestis Karamanlis were proven to be extremely helpful in my long journey.
+ SuperCollider is admittedly a wonderful tool that can be effectively used in music production. I really liked the idea of delving into a complex program like that. But, as someone who doesn't have the slightest idea of writing code, in order to achieve this, I had to learn the basics. Books such as 'A gentle introduction to SuperCollider' by Bruno Ruviaro and 'Composition and Processing of Sound with SuperCollider' by Orestis Karamanlis were proven to be extremely helpful in my long journey.
 
-During our lectures on it, as I was finally learning more and more, I became sort of fixated on the notion of recreating soundtracks from iconic films. As such, an idea quickly popped into my head a few weeks ago. I wanted to create a tonally similar track based on the award winning soundtrack by Hildur Guðnadóttir, which was used in the movie Joker (2019). During the development of this project it was absolutely crucial to me that the track would be relatively simple but also something that can actually resonate on an emotional level with each listener. 
+ During our lectures on it, as I was finally learning more and more, I became sort of fixated on the notion of recreating soundtracks from iconic films. As such, an idea quickly popped into my head a few weeks ago. I wanted to create a tonally similar track based on the award winning soundtrack by Hildur Guðnadóttir, which was used in the movie Joker (2019). During the development of this project it was absolutely crucial to me that the track would be relatively simple but also something that can actually resonate on an emotional level with each listener. 
 
 ### 2. HOW I DID IT/PROBLEMS I ENCOUNTERED
 
-Using buffers I imported certain sound files (wav format) into SuperCollider, that would later be used as the main components of my track. (WORK IN PROGRESS) 
+ Using buffers I imported certain sound files (wav format) into SuperCollider, that would later be used as the main components of my track. (WORK IN PROGRESS) 
 
-I didn't face major setbacks while working on it, but my lack of understanding of certain functions led me to consume more time in unecessary things than needed. I simply solved this particular problem by studying harder, going much deeper into the aforementioned books and talking with our professor. 
+ I didn't face major setbacks while working on it, but my lack of understanding of certain functions led me to consume more time in unecessary things than needed. I simply solved this particular problem by studying harder, going much deeper into the aforementioned books and talking with our professor. 
 
 ### 3. RESULTS/MY PERSONAL OPINION 
 
-I'm very satisfied with what I made and really appreaciate the fact I had tons of fun making it. Could it be better? Absolutely. But I realise, my journey towards mastering SuperCollider is very far from over. I learned tons of new stuff about writing code that I wasn't very familiar with and my terminology (concerning music and aspects of SuperCollider) has been greatly improved.
+ I'm very satisfied with what I made and really appreaciate the fact I had tons of fun making it. Could it be better? Absolutely. But I realise, my journey towards mastering SuperCollider is very far from over. I learned tons of new stuff about writing code that I wasn't very familiar with and my terminology (concerning music and aspects of SuperCollider) has been greatly improved.
 
-Will there be further use of the program by me? I believe so. But more like in the context of a personal hobby. 
+ Will there be further use of the program by me? I believe so. But more like in the context of a personal hobby. 
