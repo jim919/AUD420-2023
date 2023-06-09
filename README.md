@@ -47,7 +47,7 @@ Short yet comprehensive.
 
 ### 2. HOW I DID IT/PROBLEMS I ENCOUNTERED
 
- Using buffers I imported certain sound files (wav format) into SuperCollider, that would later be used as the main components of my track. (WORK IN PROGRESS) 
+ Using buffers I imported certain sound files (wav format) into SuperCollider, that would later be used as the main components of my track. Then, I had those sounds modified and properly adjusted to create the track (specifically, I changed stuff like the loop and trigger rate function and I had buffer1 be controlled through the movement of my mouse). Relatively simple/easy.  
 
  I didn't face major setbacks while working on it, but my lack of understanding of certain functions led me to consume more time in unecessary things than needed. I simply solved this particular problem by studying harder, going much deeper into the aforementioned books and talking with our professor. 
 
